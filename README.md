@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @DeiryPacheco
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Sapui5/Sap Fiori 
-- 💞️ I’m looking to collaborate on any project 
+- 👋 Hi, I'm @DeiryPacheco
+- 👀 I'm interested in Web Development
+- 💻 I'm a SAP UI5/Fiori Developer
+- 🌱 I'm currently learning Abap Cloud
+- 💞️ I love improving every day
 - 📫 This is my LinkedIn https://www.linkedin.com/in/deiry-pacheco-navas
 
 <!---
